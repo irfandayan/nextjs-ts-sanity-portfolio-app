@@ -21,7 +21,7 @@ const ExperienceCard = (props: Props) => {
           once: true,
         }}
         className="w-32 h-32 rounded-full xl:w-[200px] xl:h-[200px] object-cover object-center"
-        src="/assets/irfandayan-art.jpg"
+        src="/assets/irfandayan.jpg"
         alt=""
       />
 
